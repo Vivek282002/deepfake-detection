@@ -1,0 +1,13 @@
+flask
+gunicorn
+numpy>=1.19.5
+scipy
+tensorflow==2.7.0
+opencv-python-headless
+scikit-learn
+matplotlib
+protobuf==3.20.*
+mtcnn
+efficientnet
+librosa
+joblib
